@@ -1,0 +1,14 @@
+{
+  "name": "gitapptelink",
+  "version": "1.0.0",
+  "description": "Git Client",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Pablo Arredondo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  }
+}
